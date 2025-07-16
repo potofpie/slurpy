@@ -1,6 +1,6 @@
 # 🍹 Slurpy
 
-A powerful HTTP request logging and debugging toolset for Go applications, consisting of an SDK for logging and a beautiful TUI for inspection.
+A vibe coded POC to try to get a network tab for CLI app 
 
 ![Slurpy Demo](https://img.shields.io/badge/demo-available-brightgreen) ![Go Version](https://img.shields.io/badge/go-1.21+-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
