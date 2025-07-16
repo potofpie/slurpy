@@ -2,7 +2,7 @@
 
 A vibe coded POC to try to get a network tab for CLI app 
 
-![Slurpy Demo](https://img.shields.io/badge/demo-available-brightgreen) ![Go Version](https://img.shields.io/badge/go-1.21+-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Go Version](https://img.shields.io/badge/go-1.21+-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## ✨ Features
 
